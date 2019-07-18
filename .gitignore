@@ -1,0 +1,7 @@
+_build
+erl_crash.dump
+logs/
+Mnesia.*
+rebar
+.rebar
+variables*
